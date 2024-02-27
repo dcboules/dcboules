@@ -9,7 +9,7 @@ As a software engineer deeply passionate about the transformative power of techn
 * 🌍  I'm based in Beautiful Sunny Southern California
 * ✉️  You can contact me at [dcboules@gmail.com](mailto:dcboules@gmail.com)
 * 🚀  I'm currently working on [Spirit and Truth](http://spiritandtruth.app/)
-* 🧠  I'm learning liquid for shopify development, and I am studying for a few cloud certs
+* 🧠  I'm learning about Microsoft Azure a certification
 
 ### Skills
 
